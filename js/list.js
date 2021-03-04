@@ -25,6 +25,27 @@ const d = {
 {
 	"vids": [
 		{
+			"user": "None",
+			"link": "yt link here",
+			"percent": "remove these quotations and replace it with an integer (numbers)",
+			"hz": "refresh rate here (Make sure you add Hz at the end"
+		},
+
+],
+	"name": "KrX",
+	"author": "KaiGuy",
+	"more": "Yeah",
+	"id": "67001174",
+	"pass": "Unknown",
+	"percentToQualify": "NaN",
+	"verificationVid": "https://www.youtube.com/watch?v=fRFFbz2kUjc",
+	"key": 1
+},
+
+/*=================================================================================*/
+{
+	"vids": [
+		{
 			"user": "name here",
 			"link": "yt link here",
 			"percent": "remove these quotations and replace it with an integer (numbers)",
@@ -39,7 +60,7 @@ const d = {
 	"pass": "None",
 	"percentToQualify": "NaN",
 	"verificationVid": "https://www.youtube.com/watch?v=LywaFh5-OE4",
-	"key": 1
+	"key": 2
 },
 
 /*=================================================================================*/
