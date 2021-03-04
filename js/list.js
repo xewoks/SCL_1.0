@@ -33,7 +33,7 @@ const d = {
 
 ],
 	"name": "Last Breath",
-	"author": "Maxfs (to be removed)",
+	"author": "Maxfs",
 	"more": "none",
 	"id": "none",
 	"pass": "None",
