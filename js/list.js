@@ -21,28 +21,7 @@ const d = {
 	"key": 0
 },
 
-/*=================================================================================*/
-{
-	"vids": [
-		{
-			"user": "None",
-			"link": "yt link here",
-			"percent": "remove these quotations and replace it with an integer (numbers)",
-			"hz": "refresh rate here (Make sure you add Hz at the end"
-		},
-
-],
-	"name": "KrX",
-	"author": "KaiGuy",
-	"more": "Yeah",
-	"id": "67001174",
-	"pass": "Unknown",
-	"percentToQualify": "NaN",
-	"verificationVid": "https://www.youtube.com/watch?v=fRFFbz2kUjc",
-	"key": 1
-},
-
-/*=================================================================================*/
+/*=================================================================================*
 {
 	"vids": [
 		{
