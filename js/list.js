@@ -39,7 +39,7 @@ const d = {
 	"pass": "None",
 	"percentToQualify": "NaN",
 	"verificationVid": "https://www.youtube.com/watch?v=LywaFh5-OE4",
-	"key": 2
+	"key": 1
 },
 
 /*=================================================================================*/
