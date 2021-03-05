@@ -16,7 +16,7 @@ const d = {
 	"more": "Yeah",
 	"id": "67001174",
 	"pass": "Unknown",
-	"percentToQualify": "NaN",
+	"percentToQualify": "12",
 	"verificationVid": "https://www.youtube.com/watch?v=fRFFbz2kUjc",
 	"key": 0
 },
