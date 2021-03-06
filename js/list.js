@@ -2,13 +2,7 @@ const d = {
 	"list": [
 /*=================================================================================*/
 {
-	"vids": [
-		{
-			"user": "None",
-			"link": "yt link here",
-			"percent": "remove these quotations and replace it with an integer (numbers)",
-			"hz": "refresh rate here (Make sure you add Hz at the end"
-		},
+	
 
 ],
 	"name": "Fist Death",
