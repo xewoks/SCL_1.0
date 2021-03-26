@@ -1,16 +1,14 @@
 *{
-  font-family: 'Mukta Mahee', sans-serif;
-  color: black !important;
+  font-family: 'Montserrat', sans-serif;
+  color: white !important;
 }
-header {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100px;
-    background: rgb(222, 235, 255);
-    box-shadow: 0 10px 15px 0 rgba(0, 0, 0, 0.5), 0 10px 30px 0 rgba(0, 0, 0, 0.2);
-    z-index: 2;
+header{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100px;
+  background: rgb(37, 37, 37);
 }
 #sitename{
   position: fixed;
@@ -26,33 +24,29 @@ header {
   right: 30px;
   font-size: 1.3em;
 }
-#list {
-    background: rgb(161, 197, 255);
-    position: fixed;
-    top: 100px;
-    left: 0;
-    width: 30%;
-    overflow-y: auto;
-    box-shadow: 10px 0 15px 0 rgba(0, 0, 0, 0.5), 10px 0 30px 0 rgba(0, 0, 0, 0.2);
-    z-index: 1;
+#list{
+  background-image: linear-gradient(to bottom, rgb(14, 14, 14), rgb(63, 63, 63));
+  position: fixed;
+  top: 100px;
+  left: 0;
+  width: 30%;
+  overflow-y: auto;
 }
-#additional-information {
-    background: rgb(194, 217, 255);
-    position: fixed;
-    top: 100px;
-    right: 0;
-    width: 30%;
-    overflow-y: auto;
-    box-shadow: -10px 0 15px 0 rgba(0, 0, 0, 0.5), -10px 0 30px 0 rgba(0, 0, 0, 0.2);
-    z-index: 1;
+#additional-information{
+  background: rgb(66, 66, 66);
+  position: fixed;
+  top: 100px;
+  right: 0;
+  width: 30%;
+  overflow-y: auto;
 }
-#info {
-    background: rgb(210, 230, 255);
-    position: fixed;
-    top: 100px;
-    left: 30%;
-    width: 40%;
-    overflow-y: auto;
+#info{
+  background: rgb(51, 51, 51);
+  position: fixed;
+  top: 100px;
+  left: 30%;
+  width: 40%;
+  overflow-y: auto;
 }
 #inner-info, #inner-right-info{
   padding: 1em;
@@ -61,19 +55,19 @@ header {
   padding: 1em;
 
 }
-    .entry:nth-child(odd) {
-        background: rgb(194, 217, 255);
-    }
+.entry:nth-child(odd){
+  background: rgb(48, 48, 48);
+}
 .entry:hover{
-  background: rgba(255, 255, 255, 0.5);
+  background: rgb(34, 34, 34);
   cursor: pointer;
   color:rgba(0, 0, 0,0.5) !important;
 }
 
 A:hover {color:rgb(255, 255, 255) !important; text-decoration:none; }
 
-.selected {
-    background: rgb(214, 230, 255) !important;
+.selected{
+  background: rgb(27, 27, 27) !important;
 }
 .author{
   font-variant: small-caps;
@@ -91,9 +85,8 @@ A:hover {color:rgb(255, 255, 255) !important; text-decoration:none; }
   font-variant: small-caps;
 
 }
-.vid {
-    width: 100%;
-    box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.7), 0 0 50px 0 rgba(0, 0, 0, 0.2);
+.vid{
+  width: 100%;
 }
 #records{
   width: 100%;
@@ -103,9 +96,8 @@ A:hover {color:rgb(255, 255, 255) !important; text-decoration:none; }
   font-weight: bold;
   color: black;
 }
-#records-table {
-    width: 100%;
-    box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.5), 0 0 30px 0 rgba(0, 0, 0, 0.2);
+#records-table{
+  width: 100%;
 }
 #explanation-simple-title{
   font-size: 1.5em;
@@ -121,11 +113,11 @@ A:hover {color:rgb(255, 255, 255) !important; text-decoration:none; }
   width: 100%;
   padding: 0.5em;
 }
-.record-entry:nth-child(even) {
-    background: rgb(161, 197, 255);
+.record-entry:nth-child(even){
+  background: rgb(209, 209, 209)
 }
-.record-entry:nth-child(odd) {
-    background: rgb(194, 217, 255);
+.record-entry:nth-child(odd){
+  background: rgb(235, 235, 235)
 }
 #block{
   position: fixed;
